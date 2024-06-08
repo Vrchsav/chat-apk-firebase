@@ -10,4 +10,3 @@ Security Measures:
 Implement Firebase Security Rules to restrict unauthorized access to chat data.
 Validate and sanitize user inputs to prevent injection attacks.
 Consider additional security measures like user inactivity timeouts and session management.
-Technical Stack:
